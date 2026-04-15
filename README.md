@@ -22,4 +22,4 @@ In Analysis_of_the_data folder:
 5.The file 'Willcoxon_rank_sum' generates all Willcoxon_rank_sum tests in the paper.
 
 
-For the folders Comparison, it contains data from baseline and socially appropriate treatments and compare them. 
+For the folder Comparison, it contains data from baseline and socially appropriate treatments and compare them. 
