@@ -7,7 +7,7 @@ For the folders Baseline, Fair, Self-interested, Socially appropriate. They have
 
 In each folder, itcontains two sub-folders: Obtain_the_data and Analysis_of_the _data.
 
-Obtain_the_data contain two py. files, one is to obtain the date from ChatGPT and record their responses. Another py file called Extraction is transfer ChatGPT’s responses to the data and the data is saved in the Analysis_of_the _data foleder for our analysis purpose.
+Obtain_the_data contain two py. files, one is to obtain the data from ChatGPT and record their responses. Another py file called Extraction is transfer ChatGPT’s responses to the data and the data is saved in the Analysis_of_the _data foleder for our analysis purpose.
 
 In Analysis_of_the_data folder:
 
