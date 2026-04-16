@@ -1,15 +1,9 @@
 # Gender-bias-in-AI-mediated-economic-decisions
-The repository contains data and code for the project
+The repository contains data analysis for the project
 
-We are using Python to get the data and MATLAB to analyze the data.
+We are using MATLAB to analyze the data.
 
 For the folders Baseline, Fair, Self-interested, Socially appropriate. They have the same structure.
-
-In each folder, it contains two sub-folders: Obtain_the_data and Analysis_of_the _data.
-
-Obtain_the_data contain two py. files, one is to obtain the data from ChatGPT and record their responses. Another py. file called Extraction is to transfer ChatGPT’s responses to the data and the data is saved in the Analysis_of_the_data folder for our analysis purpose.
-
-In Analysis_of_the_data folder:
 
 1.The file 'ChatGPT_4o_distribution_give' generates the figure of distribution of AI’s decision in the give framing.
 
