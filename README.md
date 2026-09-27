@@ -2,9 +2,9 @@
 Data and Code
 We are using Python to get the data and MATLAB to analyze the data.
 
-For the folders <Baseline>, <Fair>, <Self-interested>, <Socially appropriate>. They have the similar structure.
+For the folders <Baseline>, <Fair>, <Self-interested>, <Socially-appropriate>. They have the similar structure.
 
-In each folder, it contains two sub-folders: <Obtain_the_data> and <Analysis_of_the _data>.
+In each folder, it contains two sub-folders: <Obtain_the_data> and <Analysis_of_the_data>.
 
 <Obtain_the_data> contain py. files to obtain the data from (Chat)GPT and record their responses and to transfer (Chat)GPT’s responses to the data and the data is saved in the <Analysis_of_the_data> folder for our analysis purpose.
 
