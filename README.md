@@ -2,7 +2,7 @@
 Data and Code
 We are using Python to get the data and MATLAB to analyze the data.
 
-For the folders <Baseline>, <Fair>, <Self-interested>, <Socially-appropriate>. They have the similar structure.
+For the folders <Baseline>, <Fair>, <Self_interested>, <Socially_appropriate>. They have the similar structure.
 
 In each folder, it contains two sub-folders: <Obtain_the_data> and <Analysis_of_the_data>.
 
